@@ -91,9 +91,9 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}			
 		}
-		"SOV"={
+		"RUS"={
 			history = "SOV_GATHERING_STORM_DESC"
-			ideology = communism
+			ideology = neutrality
 			ideas = {
 				trotskyite_plot_nsb
 				SOV_second_five_year_plan_fake_1936_ns
