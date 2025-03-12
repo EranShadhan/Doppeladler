@@ -15,7 +15,7 @@ state = {
 	
 	history = {
 
-		owner = CZE
+		owner = AUS
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -26,26 +26,9 @@ state = {
 			6573 1 # Kosice
 		}
 
-		add_core_of = CZE
-		add_core_of = SLO
+		add_core_of = HUN
+		add_core_of = AUS
 
-		# This should isntead be reclaimable through Hungarian focuses with ww
-		IF = {
-			limit = {
-				NOT = {
-					has_dlc = "Gotterdammerung"
-				}
-			}
-			add_claim_by = HUN
-		}
-		
-
-		1939.3.14 = {
-			owner = HUN
-			controller = HUN
-			remove_claim_by = HUN
-			add_core_of = HUN
-		}
 	}
 	
 	provinces = {
